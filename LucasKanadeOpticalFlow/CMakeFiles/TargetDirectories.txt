@@ -1,0 +1,3 @@
+/home/valerio/EserciziElim/LucasKanadeOpticalFlow/CMakeFiles/rebuild_cache.dir
+/home/valerio/EserciziElim/LucasKanadeOpticalFlow/CMakeFiles/prova.dir
+/home/valerio/EserciziElim/LucasKanadeOpticalFlow/CMakeFiles/edit_cache.dir

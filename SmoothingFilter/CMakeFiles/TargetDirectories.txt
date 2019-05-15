@@ -1,0 +1,3 @@
+/home/valerio/EserciziElim/SmoothingFilter/CMakeFiles/rebuild_cache.dir
+/home/valerio/EserciziElim/SmoothingFilter/CMakeFiles/prova.dir
+/home/valerio/EserciziElim/SmoothingFilter/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/valerio/EserciziElim/GammaCorrection/CMakeFiles/rebuild_cache.dir
+/home/valerio/EserciziElim/GammaCorrection/CMakeFiles/prova.dir
+/home/valerio/EserciziElim/GammaCorrection/CMakeFiles/edit_cache.dir

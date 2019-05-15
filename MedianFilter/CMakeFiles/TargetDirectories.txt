@@ -1,0 +1,3 @@
+/home/valerio/EserciziElim/MedianFilter/CMakeFiles/rebuild_cache.dir
+/home/valerio/EserciziElim/MedianFilter/CMakeFiles/prova.dir
+/home/valerio/EserciziElim/MedianFilter/CMakeFiles/edit_cache.dir

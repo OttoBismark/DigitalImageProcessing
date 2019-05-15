@@ -1,0 +1,3 @@
+/home/valerio/EserciziElim/Hough/CMakeFiles/rebuild_cache.dir
+/home/valerio/EserciziElim/Hough/CMakeFiles/prova.dir
+/home/valerio/EserciziElim/Hough/CMakeFiles/edit_cache.dir

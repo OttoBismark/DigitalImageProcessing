@@ -1,0 +1,3 @@
+/home/valerio/EserciziElim/PrewittOperator/CMakeFiles/rebuild_cache.dir
+/home/valerio/EserciziElim/PrewittOperator/CMakeFiles/prova.dir
+/home/valerio/EserciziElim/PrewittOperator/CMakeFiles/edit_cache.dir

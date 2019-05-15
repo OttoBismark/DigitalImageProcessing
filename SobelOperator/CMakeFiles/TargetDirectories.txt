@@ -1,0 +1,3 @@
+/home/valerio/EserciziElim/SobelOperator/CMakeFiles/rebuild_cache.dir
+/home/valerio/EserciziElim/SobelOperator/CMakeFiles/prova.dir
+/home/valerio/EserciziElim/SobelOperator/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/marzia/Dropbox/esameSettembre/CMakeFiles/rebuild_cache.dir
+/home/marzia/Dropbox/esameSettembre/CMakeFiles/prova.dir
+/home/marzia/Dropbox/esameSettembre/CMakeFiles/edit_cache.dir

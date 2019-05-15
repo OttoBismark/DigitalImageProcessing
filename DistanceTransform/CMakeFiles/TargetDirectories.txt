@@ -1,0 +1,3 @@
+/home/valerio/EserciziElim/DistanceTransform/CMakeFiles/rebuild_cache.dir
+/home/valerio/EserciziElim/DistanceTransform/CMakeFiles/prova.dir
+/home/valerio/EserciziElim/DistanceTransform/CMakeFiles/edit_cache.dir

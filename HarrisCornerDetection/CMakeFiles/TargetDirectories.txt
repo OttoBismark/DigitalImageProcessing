@@ -1,0 +1,3 @@
+/home/valerio/EserciziElim/HarrisCornerDetection/CMakeFiles/rebuild_cache.dir
+/home/valerio/EserciziElim/HarrisCornerDetection/CMakeFiles/prova.dir
+/home/valerio/EserciziElim/HarrisCornerDetection/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/valerio/EserciziElim/HistogramEqualization/CMakeFiles/rebuild_cache.dir
+/home/valerio/EserciziElim/HistogramEqualization/CMakeFiles/prova.dir
+/home/valerio/EserciziElim/HistogramEqualization/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/valerio/EserciziElim/BackgroundSubtraction/CMakeFiles/rebuild_cache.dir
+/home/valerio/EserciziElim/BackgroundSubtraction/CMakeFiles/prova.dir
+/home/valerio/EserciziElim/BackgroundSubtraction/CMakeFiles/edit_cache.dir

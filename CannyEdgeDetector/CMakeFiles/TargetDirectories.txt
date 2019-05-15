@@ -1,0 +1,3 @@
+/home/valerio/EserciziElim/CannyEdgeDetector/CMakeFiles/rebuild_cache.dir
+/home/valerio/EserciziElim/CannyEdgeDetector/CMakeFiles/prova.dir
+/home/valerio/EserciziElim/CannyEdgeDetector/CMakeFiles/edit_cache.dir

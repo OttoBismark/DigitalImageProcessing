@@ -1,0 +1,3 @@
+/home/valerio/EserciziElim/SplitAndMergePart2/CMakeFiles/rebuild_cache.dir
+/home/valerio/EserciziElim/SplitAndMergePart2/CMakeFiles/prova.dir
+/home/valerio/EserciziElim/SplitAndMergePart2/CMakeFiles/edit_cache.dir

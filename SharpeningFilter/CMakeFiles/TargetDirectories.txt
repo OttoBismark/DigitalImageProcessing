@@ -1,0 +1,3 @@
+/home/valerio/EserciziElim/SharpeningFilter/CMakeFiles/rebuild_cache.dir
+/home/valerio/EserciziElim/SharpeningFilter/CMakeFiles/prova.dir
+/home/valerio/EserciziElim/SharpeningFilter/CMakeFiles/edit_cache.dir

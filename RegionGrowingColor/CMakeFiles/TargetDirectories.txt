@@ -1,0 +1,3 @@
+/home/valerio/EserciziElim/RegionGrowingColor/CMakeFiles/rebuild_cache.dir
+/home/valerio/EserciziElim/RegionGrowingColor/CMakeFiles/prova.dir
+/home/valerio/EserciziElim/RegionGrowingColor/CMakeFiles/edit_cache.dir

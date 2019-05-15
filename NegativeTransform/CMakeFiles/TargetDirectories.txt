@@ -1,0 +1,3 @@
+/home/valerio/EserciziElim/NegativeTransform/CMakeFiles/rebuild_cache.dir
+/home/valerio/EserciziElim/NegativeTransform/CMakeFiles/prova.dir
+/home/valerio/EserciziElim/NegativeTransform/CMakeFiles/edit_cache.dir

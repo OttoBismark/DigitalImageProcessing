@@ -1,0 +1,3 @@
+/home/valerio/EserciziElim/KMeans/CMakeFiles/rebuild_cache.dir
+/home/valerio/EserciziElim/KMeans/CMakeFiles/prova.dir
+/home/valerio/EserciziElim/KMeans/CMakeFiles/edit_cache.dir
